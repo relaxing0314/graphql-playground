@@ -1,0 +1,9 @@
+.modal-notes{
+  margin-left: -38px;
+  max-height: 400px !important;
+  overflow-y: auto;
+}
+.modal-notes .code-desc{
+  color: #bbb;
+  line-height: 1.6;
+}

@@ -1,0 +1,5 @@
+needBuild: true # 需要打包 
+visibleName: "playground-graphql"
+buildCommand: "npm run build"
+installCommand: "npm install"
+configTemplate: "public/static/config.js"
